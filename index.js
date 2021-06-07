@@ -4,10 +4,11 @@ const {
   removeContact,
   addContact,
 } = require("./contacts");
+
 // console.log(listContacts());
-// console.log(getContactById(4));
+// console.log(getContactById(1));
 // console.log(removeContact(5));
-// console.log(addContact("Mango", "mango@gmail.com", "033-456-56"));
+// console.log(addContact("Mango", "mango@gmailffffffff.com", "033-456-56"));
 
 const argv = require("yargs").argv;
 
